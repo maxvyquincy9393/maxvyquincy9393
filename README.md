@@ -30,7 +30,7 @@ Learning to build interactive systems using LLMs + graph data.
 ## 3D Contribution Graph
 Generated automatically.
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ## Tools and Technologies I Use
 - Python  
